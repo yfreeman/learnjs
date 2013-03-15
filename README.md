@@ -1,4 +1,7 @@
-learnjs
-=======
+#learnjs
 
-Machine learning with JavaScript!
+Machine learning with Node!
+
+#Install
+
+    npm install learn
