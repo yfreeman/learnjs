@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Ryan Macy <ryan@hackery.io>",
   "license": "MIT",
-  "description": "A toolset of data munging primitives and machine learning algoritims",
+  "description": "A toolset of data munging primitives and machine learning algorithms",
   "main": "./lib/learn",
   "repository": {
     "type": "git",
